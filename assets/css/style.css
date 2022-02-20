@@ -1,0 +1,14 @@
+.navbar{
+  background-color: #f00 !important;
+}
+.navbar .navbar-brand img{
+  width: 120px;
+  height: 60px;
+  object-fit: contain;
+}
+.about{
+  padding: 20px 0px;
+}
+.about .card .card-title{
+  color: #f00;
+}
